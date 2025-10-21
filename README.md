@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mcflashsixteen
-- 👀 I’m interested in Computer science and game design
+- 👀 I’m interested in Computer science and Web design
 - 🌱 I’m currently learning Java and the basics of Computer science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mcflashsixteen@gmail.com
 
 <!---
