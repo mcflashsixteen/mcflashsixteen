@@ -1,6 +1,6 @@
 - Hi, I’m @mcflashsixteen
 - I’m interested in Computer science and Web design
-- I’m currently learning Javascript  and Htmls + CSS
+- I’m currently learning Javascript  and Html + CSS
 - How to reach me mcflashsixteen@gmail.com
 
 <!---
